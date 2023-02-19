@@ -117,7 +117,7 @@ By
 "Call-Runtime-Entrypoint"(R,RE,"Runtime-Entrypoint",A,A_len)
 ++++
 
-we refer to the task using the executor to invoke the while passing an
+we refer to the task to invoke using the executor while passing an
 stem:[A_1, ..., A_n] argument to it and using the encoding described in
 <<sect-runtime-send-args-to-runtime-enteries>>.
 ====

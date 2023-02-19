@@ -13,7 +13,7 @@ author had authorship rights for the slot in which the block was produce as well
 as if the transactions in the block constitute a valid transition of states. The
 former criterion is validated by the Polkadot Host according to the block
 production consensus protocol. The latter can be verified by the Polkadot Host
-invoking entry into the Runtime as (<<sect-rte-core-execute-block>>) as a part
+invoking entry into the Runtime (<<sect-rte-core-execute-block>>) as a part
 of the validation process. Any state changes created by this function on
 successful execution are persisted.
 

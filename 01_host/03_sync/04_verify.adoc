@@ -9,7 +9,7 @@ New blocks can be received by the Polkadot Host via other peers
 (<<sect-msg-block-request>>) or from the Host’s own consensus engine
 (<<sect-block-production>>). Both the Runtime and the Polkadot Host then need to
 work together to assure block validity. A block is deemed valid if the block
-author had authorship rights for the slot in which the block was produce as well
+author had authorship rights for the slot in which the block was produced as well
 as if the transactions in the block constitute a valid transition of states. The
 former criterion is validated by the Polkadot Host according to the block
 production consensus protocol. The latter can be verified by the Polkadot Host

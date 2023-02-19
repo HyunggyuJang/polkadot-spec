@@ -193,7 +193,7 @@ stem:[sf "Index"_N] function as:
 
 [stem]
 ++++
-sf "Index"_N: {N_C in cc N | N_c " is a child of " N} -> "Nibbles"_1^4\
+sf "Index"_N: {N_c in cc N | N_c " is a child of " N} -> "Nibbles"_1^4\
 N_c -> i
 ++++
 

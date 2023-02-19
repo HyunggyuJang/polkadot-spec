@@ -152,7 +152,7 @@ We define a *varying data* type to be an ordered set of data types.
 cc T = {T_1, ..., T_n}
 ++++
 
-A value stem:[A] of varying date type is a pair stem:[(A_("Type"),A_("Value"))]
+A value stem:[A] of varying data type is a pair stem:[(A_("Type"),A_("Value"))]
 where stem:[A_("Type") = T_i] for some stem:[T_i in cc T] and
 stem:[A_("Value")] is its value of type stem:[T_i], which can be empty. We
 define stem:["idx"(T_i) = i - 1], unless it is explicitly defined as another
